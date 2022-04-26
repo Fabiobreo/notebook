@@ -17,17 +17,9 @@ $ npm -v && node -v
 v8.16.0
 ```
 
-## Installation
+## Installation & Usage
 
-Start with cloning this repo on your local machine:
-
-```sh
-$ git clone https://github.com/Fabiobreo/notebook.git
-```
-
-## Usage
-
-Open Visual Studio Code and run
+Open PowerShell and run
 
 ```sh
 $ npx @fabiobreo/reactnotebook serve
