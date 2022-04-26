@@ -1,6 +1,6 @@
 import path from 'path';
 import { Command } from 'commander';
-import { serve } from '@notebook/local-api';
+import { serve } from '@reactnotebook/local-api';
 
 const isProduction = process.env.NODE_ENV === 'production';
 
