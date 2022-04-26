@@ -1,5 +1,5 @@
 {
-  "name": "reactnotebook",
+  "name": "@fabiobreo/reactnotebook",
   "version": "1.0.4",
   "description": "",
   "bin": "dist/index.js",
@@ -26,5 +26,5 @@
     "esbuild": "0.8.26",
     "typescript": "^4.1.3"
   },
-  "gitHead": "9e546ebf12592b72775166ec0d86309b3dc0524b"
+  "gitHead": "f959bad9cf2ea13c5f0410849204b7c4c1af82a5"
 }
