@@ -2,7 +2,7 @@
 
 # Notebook
 
-> Write a project description
+This is an application in React that allows the user to create notebooks with snippets of code and text.
 
 ## Prerequisites
 
